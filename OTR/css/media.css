@@ -1,0 +1,31 @@
+@media (min-width: 1920px) {
+    .header_wrapper {
+        width: 90%;
+    }
+}
+@media (min-width: 2200px) {
+    .header_wrapper {
+        width: 80%;
+    }
+}
+@media (max-width: 1180px) {
+    .left_top_vector {
+        display: none;
+    }
+
+    .right_top_vector {
+        display: none;
+    }
+
+    .left_bottom_vector {
+        display: none;
+    }
+
+    .right_bottom_vector {
+        display: none;
+    }
+
+    .clouds {
+        min-width: 900px;
+    }
+}
